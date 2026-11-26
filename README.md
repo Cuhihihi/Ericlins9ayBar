@@ -43,4 +43,4 @@ Assignment 2 for Software Engineering
 
 ## Pie Chart Sample
 
-![image](https://github.com/Tulio0402/Version-Control-Practice/blob/main/PieChartSample)
+![image](https://github.com/Cuhihihi/Ericlins9ayBar/blob/main/PieChartSample)
