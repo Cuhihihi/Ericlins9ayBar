@@ -43,4 +43,4 @@ Assignment 2 for Software Engineering
 
 ## Pie Chart Sample
 
-![image](https://github.com/Cuhihihi/Ericlins9ayBar/main/PieChartSample)
+![image][(https://github.com/Cuhihihi/Ericlins9ayBar/main/PieChartSample)](https://github.com/Cuhihihi/Ericlins9ayBar/blob/main/PieChartSample.png)
